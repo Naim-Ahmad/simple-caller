@@ -13,6 +13,15 @@ body {
   justify-content: center;
 }
 
+input {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  padding: 10px;
+
+}
+
 .container {
   max-width: 800px;
   margin: 20px auto;
